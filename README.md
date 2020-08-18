@@ -1,1 +1,1 @@
-Visit https://www.youtube.com/feed/channels and active this user script in tampermonkey.
+Visit https://www.youtube.com/feed/channels and activate this script in tampermonkey.
